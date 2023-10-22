@@ -14,6 +14,10 @@ int main(void)
 	{
 		putchar(low);
 	}
+	for (low = 'A'; low <= 'Z'; low++)
+	{
+		putchar(low);
+	}
 	printf("\n");
 	return (0);
 }
